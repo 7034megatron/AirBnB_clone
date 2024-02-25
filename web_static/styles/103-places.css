@@ -1,0 +1,12 @@
+/* Add places styles here */
+.places {
+    margin-top: 20px;
+}
+
+.places h1 {
+    font-size: 24px; /* Adjust font size for better mobile layout */
+    margin-bottom: 20px;
+}
+
+.place {
+    display: flex;

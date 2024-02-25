@@ -1,0 +1,10 @@
+/* Add header styles here */
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+}
+
+.logo {
+    /* Add logo styles here */
+}

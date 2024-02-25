@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #484848;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+header, footer {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    border-top: 1px solid #CCCCCC;
+}
+
+footer p {
+    margin: 0;
+    padding: 0;
+    line-height: 60px;
+    color: white;
+}

@@ -1,0 +1,15 @@
+/* Add any common styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px; /* Add padding for better mobile experience */
+}
+
+/* Add more common styles as needed */

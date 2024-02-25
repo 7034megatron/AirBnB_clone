@@ -1,0 +1,40 @@
+/* Add filters styles here */
+.filters {
+    background-color: white;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.locations,
+.amenities {
+    width: 45%; /* Adjust width for better mobile layout */
+}
+
+.popover {
+    display: none;
+    /* Add more popover styles as needed */
+}
+
+.search-button {
+    background-color: #FF5A5F;
+    color: white;
+    height: 48px;
+    width: 100%;
+    max-width: 200px; /* Limit width for better mobile layout */
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+
+.search-button:hover {
+    opacity: 0.9;
+}
+
+/* Add more filters styles as needed */
